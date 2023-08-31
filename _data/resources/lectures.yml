@@ -10,6 +10,9 @@ lecture:
       - resource:
           type: 'Reading for Assignment 1'
           link: 'https://drive.google.com/file/d/1DLWxK3cW-5ch4ZIneitff7AUwInLafym/view?usp=sharing'
+      - resource:
+          type: 'Recording'
+          link: 'https://drive.google.com/file/d/1RRtcf33_fQ5B2gIKmaatOnXLEpowx0xl/view?usp=sharing'
   #- lec: 'Lecture 2: Topic Name2'
    # resources:
    #   - resource:
