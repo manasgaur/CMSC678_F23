@@ -1,27 +1,52 @@
 syllabus:
   - heading: Technology
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    content: " Broad Topics <br>
+    Supervised Learning, Unsupervised Learning, Semi-Supervised Learning, Reinforcment Learning, Active Learning, Explainable Machine Learning"
+    <br><br>
+    Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear Regression and Probability Estimation, Optimization and Geometry, Support Vector Machine and Kernel Methods, Trees and Forest, Probabilistic Graphical Models, Learning Theory, Representation Learning (Some Excursion to Deep Learning) and Interpretable Method (LIME/SHAP).
 
-  - heading: Materials  
+  - heading: Important Information  
     content: " {Recommended Materials} <br>
-      Massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed.
-      Arcu non sodales neque sodales ut etiam sit amet. Morbi quis commodo odio aenean. 
-      Enim nulla aliquet porttitor lacus luctus accumsan.     <br><br>
-     <h3>Homeworks</h3>
-     There will be regular homeworks after lectures. 
-     <br>    
-     <h3>Slides</h3>
-     We will post slides on the course website after each lecture.
+    A Course in Machine Learning (CIML) is the book we are referring to 
+      <br><br>
+     <h3>Bonus Grades For Final Project</h3>
+     The bonus grades will be awarded based on the final project’s competency to be submitted to a machine learning, data science, or natural language processing conference. To decide on the bonus grades, I would lay emphasis on:
+     <br>
+     <ul>
+     <li> Motivation and Problem Formulation, 
+     <li> Literature Review,
+     <li> Experiment and Dataset Design,
+     <li> Results and Discussion,
+     <li> Conclusion (What have been achieved, Limitations, and Future Work)
+     </ul>  
+     <h3>Template for the Final Project </h3>
+     Please choose one of the following templates to submit the final project report:
+     <ul>
+     <li><a href="https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx">NeurIPS Template</a>
+     <li><a href="https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc">ACM Official Template</a>
+     </ul>
      <br>"
 
   - heading: Late Policy  
-    content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
-      Mattis vulputate enim nulla aliquet. Odio ut sem nulla pharetra diam sit amet. 
-      Suspendisse interdum consectetur libero id faucibus nisl."
+    content: "<ul>
+    <li> A total of 6 days are granted. 
+    <li> 50% credit for 24 hours after late days
+    <li> Late days are for unforeseen situations (interviews, conference, etc.), do not include them in your plan
+    </ul>
+    <br> 
+    <h3>Academic Integrity</h3>
+    I take academic dishonesty seriously. Any sort of activity which relate the cheating, plagiarism, fabrication (e.g. use Adobe tools), or copy-paste will be not be tolerated. If caught for the first time would lead to a 50% reduction in the grade on the assignment. If the same activity is performed next, would result in an F grade in the course and a disciplinary action will be taken which may lead to suspension or dismissal.
+    Please do visit the academic dishonesty policy available in the <a href="https://academicconduct.umbc.edu/">Academic Integrity at UMBC</a>.
+    Especially for computer science classes, there are generally questions about what is and is not allowed. However, you may not write or complete assignments for another student; allow another student to write or complete your assignments; pair program; copy someone else’s work; or allow your work to be copied. This list is not inclusive."
+    
 
   - heading: Grading Policy 
-    content: " <ul><li>Assignments: 50% </li>
-                <li>Final Exams: 50% (20% + 30%)</li></ul>
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    content: " <ul> 
+    <li> 5 Homework Assignments (20 % of total grade)
+    <li> Bi-weekly quizzes (10 % of total grade)
+    <li> 1 Midterm (20% of total grade)
+    <li> Reading Assignments (10% of total grade)
+    <li> Final Project [Executable Code and Report] (35% of total grade)
+    <li> Class Attendance and Participation (5% of total grade)
+    <ul>
+    A (90 and above), A- (85-90), B (75-85), B- (70-74), C (60-69), C- (55-59), F (54 and below)"
