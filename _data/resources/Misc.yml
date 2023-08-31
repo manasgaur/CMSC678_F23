@@ -1,5 +1,15 @@
 misc:
-  - topic: Link 1
-    link: http://example.com/res1/path
-  - topic: Link 2
-    link: http://example.com/res2/path  
+  - topic: Foundations of Machine Learning
+    link: https://d1rkab7tlqy5f1.cloudfront.net/EWI/Over%20de%20faculteit/Afdelingen/Intelligent%20Systems/Pattern%20Recognition%20Laboratory/PR/Reading%20Group/Foundations_of_Machine_Learning.pdf
+  - topic: Elements of Statistical Learning
+    link: https://hastie.su.domains/Papers/ESLII.pdf
+  - topic: Pattern Recognition and Machine Learning
+    link: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+  - topic: Machine Learning Topics
+    link: https://home.work.caltech.edu/library/index.html
+  - topic: Machine Learning Yearning
+    link: https://nessie.ilab.sztaki.hu/~kornai/2020/AdvancedMachineLearning/Ng_MachineLearningYearning.pdf
+  - topic: A Course in Machine Learning
+    link: http://ciml.info/
+  - topic: Interpretable Machine Learning
+    link: https://originalstatic.aminer.cn/misc/pdf/Molnar-interpretable-machine-learning_compressed.pdf

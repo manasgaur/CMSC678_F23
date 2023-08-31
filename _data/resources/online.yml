@@ -1,5 +1,11 @@
 resource: 
-  - topic: Resource 1
-    link: http://example.com/res1/path
-  - topic: Resource 2
-    link: http://example.com/res2/path  
+  - topic: A Course in Machine Learning
+    link: http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf
+  - topic: Master Algorithm
+    link: https://keybase.pub/ionlights/books/The%20Master%20Algorithm.pdf
+  - topic: Artificial Intelligence- A Guide for Thinking Humans 
+    link: https://ebookspace.my.id/?book=0374257833
+  - topic: Leakage and Reproducibility Crisis in ML
+    link: https://reproducible.cs.princeton.edu/
+  - topic: The Hitchhiker’s Guide to Responsible Machine Learning
+    link: https://betaandbit.github.io/RML/
