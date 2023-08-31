@@ -1,9 +1,6 @@
 content:
-- p: <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-- p: <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-- p: <p>Quis lectus nulla at volutpat diam ut venenatis tellus in. Neque sodales ut etiam sit amet nisl prus in. 
-    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Lacus laoreet non curabitur gravida. </p> 
-- p: <p>Vitae aliquet nec ullamcorper sit amet. Egestas integer eget aliquet nibh praesent tristique. 
-    Neque ornare aenean euismod elementum nisi quis eleifend. Suspendisse interdum consectetur libero id faucibus nisl.</p>
+- p: <p>The class will offer a comprehensive foundation in machine learning models and their application in making predictions. </p>
+- p: <p>It will cover both the theoretical underpinnings and practical uses of machine learning, progressing systematically through various topics such as prediction and classification challenges, kernel techniques, generative modeling, probability and optimization theories, representation learning, neural networks, and more.</p>
+- p: <p>Throughout the course, students will also become aware of the limitations inherent in machine learning and strategies for enhancing these limitations with improved approaches. </p>
+- p: <p>The course materials, including slides and project details, have been drawn from prominent figures in the field such as Andrew Ng, John Guttag, Sanjoy Dasgupta, Tom Mitchell, Frank Ferraro, Hal Daume III, Trevor Hastie, Robert Tsibrani, and Roger Grosse.</p>
+ 

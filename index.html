@@ -3,10 +3,9 @@ layout: home
 ---
 <body>
     <div class='content' style="text-align: justify;">
-        The <em>Awesome</em> course
         <h1 id="main-title" style="font-weight: 800; font-size: 3em;">{{site.title}}</h1>
         <br>
-        <h1 id="Course Description">The class will offer a comprehensive foundation in machine learning models and their application in making predictions. It will cover both the theoretical underpinnings and practical uses of machine learning, progressing systematically through various topics such as prediction and classification challenges, kernel techniques, generative modeling, probability and optimization theories, representation learning, neural networks, and more. Throughout the course, students will also become aware of the limitations inherent in machine learning and strategies for enhancing these limitations with improved approaches. The course materials, including slides and project details, have been drawn from prominent figures in the field such as Andrew Ng, John Guttag, Sanjoy Dasgupta, Tom Mitchell, Frank Ferraro, Hal Daume III, Trevor Hastie, Robert Tsibrani, and Roger Grosse.</h1>
+        <h1 id="Course Description">Course Description</h1>
         {% for para in site.data.home.course.content %}
 
             {{para.p}}    
