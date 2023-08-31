@@ -7,24 +7,14 @@ syllabus:
 
   - heading: Materials 
     content: " {Recommended Materials} <br>
-    A Course in Machine Learning (CIML) is the book we are referring to 
-      <br><br>
-     <h3>Bonus Grades For Final Project</h3>
-     The bonus grades will be awarded based on the final project’s competency to be submitted to a machine learning, data science, or natural language processing conference. To decide on the bonus grades, I would lay emphasis on:
-     <br>
-     <ul>
-     <li> Motivation and Problem Formulation, 
-     <li> Literature Review,
-     <li> Experiment and Dataset Design,
-     <li> Results and Discussion,
-     <li> Conclusion (What have been achieved, Limitations, and Future Work)
-     </ul>  
-     <h3>Template for the Final Project </h3>
-     Please choose one of the following templates to submit the final project report:
-     <ul>
-     <li><a href="https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx">NeurIPS Template</a>
-     <li><a href="https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc">ACM Official Template</a>
-     </ul>
+      Massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed.
+      Arcu non sodales neque sodales ut etiam sit amet. Morbi quis commodo odio aenean. 
+      Enim nulla aliquet porttitor lacus luctus accumsan.     <br><br>
+     <h3>Homeworks</h3>
+     There will be regular homeworks after lectures. 
+     <br>    
+     <h3>Slides</h3>
+     We will post slides on the course website after each lecture.
      <br>"
 
   - heading: Late Policy  
