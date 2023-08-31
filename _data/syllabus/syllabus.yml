@@ -1,9 +1,9 @@
 syllabus:
   - heading: Technology
-    content: " Broad Topics <br>
+    content: "Broad Topics <br>
     Supervised Learning, Unsupervised Learning, Semi-Supervised Learning, Reinforcment Learning, Active Learning, Explainable Machine Learning"
     <br><br>
-    Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear Regression and Probability Estimation, Optimization and Geometry, Support Vector Machine and Kernel Methods, Trees and Forest, Probabilistic Graphical Models, Learning Theory, Representation Learning (Some Excursion to Deep Learning) and Interpretable Method (LIME/SHAP).
+    Introduction to Machine Learning, Learning Problem, Generative Modeling, Linear Regression and Probability Estimation, Optimization and Geometry, Support Vector Machine and Kernel Methods, Trees and Forest, Probabilistic Graphical Models, Learning Theory, Representation Learning (Some Excursion to Deep Learning) and Interpretable Method (LIME/SHAP). "
 
   - heading: Important Information  
     content: " {Recommended Materials} <br>
