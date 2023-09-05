@@ -12,9 +12,17 @@ syllabus:
      <h3>Template for the Final Project </h3>
      Please choose one of the following templates to submit the final project report:
      <ul>
-     <li> Overleaf NeurIPS Template</a>
-     <li> Overleaf ACM Official Template</a>
+     <li> Overleaf NeurIPS Template
+     <li> Overleaf ACM Official Template
      </ul>
+     The assessment process of the final project is broken down into following milestone:
+     <ul>
+     <li> Project information (10 points): Group formation and tentative project title are required fields in the Excel sheet (Check FAQs). 
+     <li> Project checkpoint 1 (15 points): For this milestone, it's essential that you've acquired the data and possibly conducted some preliminary data preprocessing. You'll need to deliver a 5-minute presentation summarizing your progress up to this point, including descriptive statistics about the dataset, and outlining your strategy leading up to the next milestone.
+     <li> Project checkpoint 2 (30 points): Your task includes providing a two-page report that outlines the motivation of the project, hypothesis, plan for achieving a plausible answer to the hypothesis, initial milestone (briefly), the modifications made since the initial milestone, any obstacles encountered, and your roadmap for the remainder of the semester.
+     <li> Final Report and Code (45 points): Your final report, with a maximum length of ten pages, should follow a structure similar to that of a concise research paper. It should encompass the following elements: (a) A project overview. (b) An exploration of the significant concepts you delved into. (c) Utilization of concepts from the course. (d) Key takeaways and lessons learned. (e) A comprehensive summary and discussion of your results. (f) If you had additional time, how would you extend and develop the project further? Your final report should accompany a well commented and easy to execute code. 
+     </ul> 
+     If you have any questions, please email: manas@umbc.edu
      <br>"
 
   - heading: Late Policy  
