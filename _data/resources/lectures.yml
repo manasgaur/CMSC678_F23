@@ -17,7 +17,17 @@ lecture:
     resources:
       - resource:
           type: 'Supervised Learning'
-          link: ''
+          link: 'https://drive.google.com/file/d/1M43bk7oQVJCquM1pm-rF5GoAhKYyZDST/view?usp=share_link'
+      - resource:
+          type: 'Recording'
+          link: 'https://drive.google.com/file/d/1tJCq0Uba_gN66Ojt13yYpdsYzWiqyipa/view?usp=share_link'
+      - resource:
+          type: 'Reading: LIME'
+          link: 'https://arxiv.org/pdf/1602.04938.pdf'
+      - resource:
+          type: 'Reading SHAP'
+          link: 'https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf'
+
   #- lec: 'Lecture 3: Topic Name3'
    # resources:
    #   - resource:
