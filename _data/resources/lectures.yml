@@ -27,6 +27,11 @@ lecture:
       - resource:
           type: 'Reading SHAP'
           link: 'https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf'
+- lec: 'Lecture 3: Decision Trees'
+    resources:
+     - resource: 
+          type: 'Decision Trees Representation'
+          link: 'https://drive.google.com/file/d/1WSwQpsOuB_FYUF_GxTTCwf7QEEME2m-_/view?usp=share_link'
 
   #- lec: 'Lecture 3: Topic Name3'
    # resources:
