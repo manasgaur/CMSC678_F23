@@ -32,6 +32,10 @@ lecture:
      - resource: 
           type: 'Decision Trees Representation'
           link: 'https://drive.google.com/file/d/1WSwQpsOuB_FYUF_GxTTCwf7QEEME2m-_/view?usp=share_link'
+          type: 'Decision Trees Learning'
+          link: 'https://drive.google.com/file/d/1pTJFn4fiQAP0HYmg510SQPQuVO9Ls2eA/view?usp=sharing'
+          type: 'Decision Trees Discussion'
+          link: 'https://drive.google.com/file/d/1bXr2eCkHXR7K4dmzN5hBNdWv3iArdsbF/view?usp=sharing'
 
   #- lec: 'Lecture 3: Topic Name3'
    # resources:
