@@ -46,6 +46,9 @@ lecture:
       - resource: 
           type: 'Neural Network Forward Pass'
           link: 'https://drive.google.com/file/d/1sNsxyhXBCQFoNDEr1WeBLhdCRyUZ_FKk/view?usp=sharing'
+      - resource:
+          type: 'Neural Network Backward Pass'
+          link: 'https://drive.google.com/file/d/1oTXHKriBaQ6Sy39fSeujQfRQY4wWIWxr/view?usp=sharing'
 
   #- lec: 'Lecture 3: Topic Name3'
    # resources:
