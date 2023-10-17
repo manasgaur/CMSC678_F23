@@ -46,30 +46,35 @@ lecture:
       - resource: 
           type: 'Neural Network Forward Pass'
           link: 'https://drive.google.com/file/d/1sNsxyhXBCQFoNDEr1WeBLhdCRyUZ_FKk/view?usp=sharing'
+      - resource: 
+          type: 'Neural Network Forward Pass Recording'
+          link: 'https://drive.google.com/file/d/1JIGVNoCIKvPVQL0svtBQBcY3soCcwVkd/view?usp=sharing'
       - resource:
           type: 'Neural Network Backward Pass'
           link: 'https://drive.google.com/file/d/1oTXHKriBaQ6Sy39fSeujQfRQY4wWIWxr/view?usp=sharing'
-
-  #- lec: 'Lecture 3: Topic Name3'
-   # resources:
-   #   - resource:
-   #       type: 'Extra Reading'
-    #      link: '#'
-    #  - resource:
-    #      type: 'Video Lecture'
-    #      link: '#'
-  #- lec: 'Lecture 4: Topic Name4'
-   # resources:
-    #  - resource:
-       #   type: 'Video Lecture'
-        #  link: '#'
-  
-# - lec: 'Lecture 5: Topic Name5'
-#   resources:
-#     - resource:
-#         type: 'Slides'
-#         link: ''
-
-
-# (Uncomment the above code to add Lecture 4 and its links.
-#   You can add more lectures & resource in same format.)      
+      - resource:
+          type: 'Neural Network Backward Pass Recording'
+          link: 'https://drive.google.com/file/d/1XG9lD6PvaeR7wle-4BIfxRFhFNu0QwS1/view?usp=sharing'
+      - resource: 
+          type: 'Neural Network Backward Pass Recording 2'
+          link: 'https://drive.google.com/file/d/1He0QIVQszVTGKBIS--2391EOHRmZNPRQ/view?usp=sharing'
+      - resource:
+          type: 'Neural Network Practical Concerns'
+          link: 'https://drive.google.com/file/d/1k_tFe_9HlDSdTTqH7yl9WklAbfRjPycW/view?usp=sharing'
+      - resource:
+          type: 'Dropout'
+          link: 'https://drive.google.com/file/d/16g-L4PjO2mI7AZLDY_yINqkclXvkN-cs/view?usp=sharing'
+  - lec: 'Lecture 5: Computational Learning Theory with Neural Networks'
+    resources: 
+      - resource:
+          type: 'Bias and Variance'
+          link: 'https://docs.google.com/presentation/d/172xBzCO3OhyPp6O_vZTs47HY9HAYbW-u/edit?usp=sharing&ouid=109152009040700061561&rtpof=true&sd=true'
+      - resource:
+          type: 'VC Dimensions and PAC Learning'
+          link: '#'
+      - resource: 
+          type: 'More on PAC Learning'
+          link: '#'
+      - resource: 
+          link: 'Online Learning'
+          type: '#'
