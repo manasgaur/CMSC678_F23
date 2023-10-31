@@ -76,11 +76,11 @@ lecture:
           type: 'Mistake Bound Theorem'
           link: 'https://drive.google.com/file/d/1FdA07P3n4xeJj4UwFpQOh4dnvP2VJeVi/view?usp=sharing'
       - resource: 
-          link: 'Mistake Bound Theorem Recording'
-          type: 'https://drive.google.com/file/d/1ZDQAO-HEWEb1AHnfv56ola9gDcmDUA0r/view?usp=sharing'
+          type: 'Mistake Bound Theorem Recording'
+          link: 'https://drive.google.com/file/d/1ZDQAO-HEWEb1AHnfv56ola9gDcmDUA0r/view?usp=sharing'
       - resource: 
-          link: 'Perceptron Mistake Bound'
-          type: 'https://drive.google.com/file/d/1NTLHNviB8eNIRgcxnpHVNi6HVr5oZ00k/view?usp=sharing'
+          type: 'Perceptron Mistake Bound'
+          link: 'https://drive.google.com/file/d/1NTLHNviB8eNIRgcxnpHVNi6HVr5oZ00k/view?usp=sharing'
       - resource:
-          link: 'PAC Learning - 1'
-          type: 'https://drive.google.com/file/d/1MUPu-l5efjvQKxOXUcVb7V_A7dkJsjkF/view?usp=sharing'
+          type: 'PAC Learning - 1'
+          link: 'https://drive.google.com/file/d/1MUPu-l5efjvQKxOXUcVb7V_A7dkJsjkF/view?usp=sharing'
