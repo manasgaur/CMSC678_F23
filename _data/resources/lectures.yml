@@ -84,3 +84,10 @@ lecture:
       - resource:
           type: 'PAC Learning - 1'
           link: 'https://drive.google.com/file/d/1MUPu-l5efjvQKxOXUcVb7V_A7dkJsjkF/view?usp=sharing'
+      - resource: 
+          type: 'PAC Learning - 2: Definition'
+          link: 'https://drive.google.com/file/d/1DASiMoM6k54_Inz0JGb9Zsn6yAhOLnum/view?usp=sharing'
+      - resource:
+          type: 'PAC Learning - 3: Occam Razor'
+          link: 'https://drive.google.com/file/d/1reBry-kjd-ttFLDihezWPVEhYqQxrSer/view?usp=sharing'
+
