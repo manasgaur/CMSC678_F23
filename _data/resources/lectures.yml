@@ -91,3 +91,15 @@ lecture:
           type: 'PAC Learning - 3: Occam Razor'
           link: 'https://drive.google.com/file/d/1reBry-kjd-ttFLDihezWPVEhYqQxrSer/view?usp=sharing'
 
+  - lec: 'Lecture 6: Bagging and Boosting'
+      - resource:
+          type: 'Bagging and Boosting'
+          link: 'https://drive.google.com/file/d/19sBDBT2Rc7FBfsiwLqkHIGRXW6RKMsuE/view?usp=sharing'
+  
+  - lec: 'lecture 7: Support Vector Machines'
+      - resource: 
+          type: 'SVM Introduction'
+          link: 'https://drive.google.com/file/d/10DSvG4XbKH8qmhjfY5MMWl-ajDsMA7Ed/view?usp=sharing'
+      - resource:
+          type: 'SVM Intro Recording'
+          link: 'https://drive.google.com/file/d/1pw1CoQe7uJy8wby80jKaD-ukm9gw1kUk/view?usp=sharing'
