@@ -90,6 +90,9 @@ lecture:
       - resource:
           type: 'PAC Learning - 3: Occam Razor'
           link: 'https://drive.google.com/file/d/1reBry-kjd-ttFLDihezWPVEhYqQxrSer/view?usp=sharing'
+      - resource: 
+          type: 'VC Dimensions'
+          link: 'https://drive.google.com/file/d/1XtDZdvoBN5ZMd7Qu8RFMA1Iv8AbfwrEr/view?usp=sharing'
   - lec: 'Lecture 6: Bagging and Boosting'
     resources:
       - resource:
@@ -103,3 +106,6 @@ lecture:
       - resource:
           type: 'SVM Intro Recording'
           link: 'https://drive.google.com/file/d/1pw1CoQe7uJy8wby80jKaD-ukm9gw1kUk/view?usp=sharing'
+      - resource:
+          type: 'Dual SVM'
+          link: 'https://drive.google.com/file/d/1xWZeqOdXjTMXQp2eIkJ8f2pDRM6uYqtC/view'
